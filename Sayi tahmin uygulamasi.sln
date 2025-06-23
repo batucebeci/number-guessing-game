@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sayi tahmin uygulamasi", "Sayi tahmin uygulamasi\Sayi tahmin uygulamasi.csproj", "{2C3FA720-B66F-4F5D-ACDF-0BC7EEBCDD5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C3FA720-B66F-4F5D-ACDF-0BC7EEBCDD5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C3FA720-B66F-4F5D-ACDF-0BC7EEBCDD5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C3FA720-B66F-4F5D-ACDF-0BC7EEBCDD5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C3FA720-B66F-4F5D-ACDF-0BC7EEBCDD5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8787688-F5F8-4491-9CB6-1AC68B906C8B}
+	EndGlobalSection
+EndGlobal

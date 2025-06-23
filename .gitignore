@@ -1,0 +1,36 @@
+﻿# GitHub portfolio cleanup
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Secrets / local config
+.env
+.env.*
+!.env.example
+local.properties
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+en_iyi_skor.txt
+
+# Common generated files
+dist/
+build/
+out/
+coverage/
+
+# .NET / Visual Studio
+.vs/
+bin/
+obj/
+TestResults/
+packages/
